@@ -1,0 +1,87 @@
+
+Hi Everyone! This is Egg and Stimpcat on behalf of TechNow Co.
+Thank you for downloading and testing our apps and programs. When you open the file containing the executable (app),
+you will notice that there are 3 files.
+
+1. (This file) 
+
+2. 'The App Name'.exe 
+
+3. 'The App Name'.spec
+
+The SPEC file acts as a storage unit of the app, so you will have to keep that in the same folder to the exe.
+When you run the app ('the exe file' we're referring to is just another way of saying 'the app', ok?) for the first
+couple of times, a black screen will pop up with a flashing cursor. Don't be alarmed, there is nothing wrong.
+It is just the code interpreter starting up, (which often takes a while) and this will be discarded 
+when you close the app. After approx. 10-13 seconds, the app will load and you will see a window appear. Enjoy!
+
+
+
+A VERY IMPORTANT NOTE HERE:
+
+If a pop-up appears when you click the app which says
+
+'Windows protected your PC'
+
+as the title, DO NOT FREAK OUT and think a virus is affecting your computer. Because it isn't. 
+(and Windows does this a lot!!!) This just means that your laptop is not configured to run 
+programs that do not contain a Commercial signature. Our signature method is Personal, (as we are a non-profit 
+company with basically no income and Personal signatures are completely free). 
+
+
+
+
+IF YOU KNOW THAT YOUR WINDOWS SECURITY SETTINGS ARE ON 'WARN' INSTEAD OF 'BLOCK' SKIP TO STEP 2 
+
+
+
+STEP 1:
+
+All you need to do is to go to your search bar (in Windows 10) and type in 'windows security' then hit enter.
+
+An app will come up. Click 'App and Browser Control'
+
+Click 'Warn' in the option that says 'Check Apps and Files' 
+(if it's already on 'warn' go straight to STEP 2)
+
+(ANOTHER IMPORTANT SIDE NOTE HERE: If you want to keep your computer safe, click 'warn'. If you don't really 
+have anything of value on your PC, click 'off' (NOT RECOMMENDED FOR NORMAL USERS. RECOMMENDED FOR DEVELOPERS.)
+
+If prompted to do so, enter your administrator's password.(If you are the admin, click yes when the pop-up comes up.
+
+If you selected 'off', you can now run the app. If you selected 'Warn', keep following our instructions.
+
+
+
+STEP 2:
+
+
+Go to the place where you stored our TechNow apps. Double click the exe (app). If you are still here, we are
+assuming that you selected 'warn' in the Windows Security menu. The same window that says 'Windows Protected
+Your PC' (I'm sorry, Windows, but you just created a lot of nuisance for us and the app-users!) will pop up.
+But this time there will be something different about it!
+
+Click 'More Info' and some words will appear. If the words next to 'Publisher:' is 'TechNow Co.' then you know 
+it is a legitimate TechNow app made and coded by us. When you click 'More Info' a button that 
+says 'Run Anyway' will appear. Click that.
+The black code interpreter will appear and all you need to do is wait (10-13 seconds) for it to load the app.
+
+ENJOY!
+ 
+NOTE: IF THE PUBLISHER SECTION DOES NOT SAY 'TECHNOW CO.', IT IS NOT BY US. WE ARE A RELATIVELY NEW COMPANY SO
+THERE WON'T BE MUCH COPYING (JUST YET!)
+
+
+Regards,
+
+Egg and Stimpcat
+
+
+P.S.: If you would like to submit feedback and crashes, please email them to x04242020@gmail.com
+ONLY HELPFUL COMMENTS WILL BE ACCEPTED.
+
+
+TechNow Corporation, 2020
+
+All rights reserved.
+ 
